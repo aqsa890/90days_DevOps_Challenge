@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 90 Days of DevOps Challenge
 
 <div align="center">
@@ -166,4 +166,4 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ---
 
 ### #90DaysOfDevOps #Linux #AWS #Docker #Kubernetes #Python #ShellScripting #CloudComputing #DevOps #LearningInPublic
-=======
+
