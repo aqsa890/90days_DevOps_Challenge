@@ -53,7 +53,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 06 | Networking, AWS VPC & Shell Scripting Projects | ✅ |
 | Day 07 | Networking Fundamentals, OSI Model & Python Basics | ✅ |
 | Day 08 | Network Security, System Design & Python APIs | ✅ |
-| Day 09 | Coming Soon... | ⏳ |
+| Day 09 | Git, GitHub & AWS Python Automation | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -154,7 +154,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8/90 Days Completed (8.9%)
+█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9/90 Days Completed (10.0%)
 ```
 
 ---
@@ -166,4 +166,5 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ---
 
 ### #90DaysOfDevOps #Linux #AWS #Docker #Kubernetes #Python #ShellScripting #CloudComputing #DevOps #LearningInPublic
+
 
