@@ -54,6 +54,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 07 | Networking Fundamentals, OSI Model & Python Basics | ✅ |
 | Day 08 | Network Security, System Design & Python APIs | ✅ |
 | Day 09 | Git, GitHub & AWS Python Automation | ✅ |
+| Day 10 | Git Advanced, AWS Cloud Fundamentals & Python OOP | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -106,6 +107,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-06/
 ├── Day-07/
 ├── Day-08/
+├── Day-09/
+├── Day-10/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -154,7 +157,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 9/90 Days Completed (10.0%)
+██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10/90 Days Completed (11.1%)
 ```
 
 ---
