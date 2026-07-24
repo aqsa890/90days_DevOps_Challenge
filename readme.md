@@ -55,6 +55,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 08 | Network Security, System Design & Python APIs | ✅ |
 | Day 09 | Git, GitHub & AWS Python Automation | ✅ |
 | Day 10 | Git Advanced, AWS Cloud Fundamentals & Python OOP | ✅ |
+| Day 11 | DevSecOps Fundamentals, OWASP Threat Dragon & GitHub Secrets | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -109,6 +110,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-08/
 ├── Day-09/
 ├── Day-10/
+├── Day-11/
 │
 ├── Projects/
 │   ├── Backup-Script/
