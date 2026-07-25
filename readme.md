@@ -56,6 +56,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 09 | Git, GitHub & AWS Python Automation | ✅ |
 | Day 10 | Git Advanced, AWS Cloud Fundamentals & Python OOP | ✅ |
 | Day 11 | DevSecOps Fundamentals, OWASP Threat Dragon & GitHub Secrets | ✅ |
+| Day 12 | Advanced Git & AWS EC2, IAM and S3 | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -111,6 +112,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-09/
 ├── Day-10/
 ├── Day-11/
+├── Day-12/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -159,7 +161,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10/90 Days Completed (11.1%)
+████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12/90 Days Completed (13.3%)
 ```
 
 ---
