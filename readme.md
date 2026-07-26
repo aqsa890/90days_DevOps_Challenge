@@ -57,6 +57,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 10 | Git Advanced, AWS Cloud Fundamentals & Python OOP | ✅ |
 | Day 11 | DevSecOps Fundamentals, OWASP Threat Dragon & GitHub Secrets | ✅ |
 | Day 12 | Advanced Git & AWS EC2, IAM and S3 | ✅ |
+| Day 13 | DevSecOps Pipeline, Security Automation & Python Projects | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
