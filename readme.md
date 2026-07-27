@@ -58,6 +58,7 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 11 | DevSecOps Fundamentals, OWASP Threat Dragon & GitHub Secrets | ✅ |
 | Day 12 | Advanced Git & AWS EC2, IAM and S3 | ✅ |
 | Day 13 | DevSecOps Pipeline, Security Automation & Python Projects | ✅ |
+| Day 14 | DevOps, Jira Project Management & Python OOP Learning | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -114,6 +115,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-10/
 ├── Day-11/
 ├── Day-12/
+├── Day-13/
+├── Day-14/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -162,7 +165,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 12/90 Days Completed (13.3%)
+█████████████░░░░░░░░░░░░░░░░░░░░░░░░░ 14/90 Days Completed (14.4%)
 ```
 
 ---
