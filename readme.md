@@ -60,6 +60,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 13 | DevSecOps Pipeline, Security Automation & Python Projects | ✅ |
 | Day 14 | DevOps, Jira Project Management & Python OOP Learning | ✅ |
 | Day 15 | AWS EC2, Auto Scaling, Load Balancer & S3 Static Website Hosting | ✅ |
+| Day 16 | GitOps with Jira, AWS Auto Scaling & Amazon RDS | ✅ |
+| Day 17 | Docker Fundamentals & AWS NoSQL Database (DynamoDB) | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -86,9 +88,12 @@ The goal is not just to complete the challenge, but to build a strong foundation
 - Shell Scripting
 - Python
 
-### DevOps Tools (Upcoming)
+### Containerization
 
 - Docker
+
+### DevOps Tools (Upcoming)
+
 - Kubernetes
 - Jenkins
 - Terraform
@@ -119,6 +124,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-13/
 ├── Day-14/
 ├── Day-15/
+├── Day-16/
+├── Day-17/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -167,7 +174,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-██████████████████░░░░░░░░░░░░░░░░░░░░░░░ 15/90 Days Completed (16.7%)
+███████████████████░░░░░░░░░░░░░░░░░░░░░░ 17/90 Days Completed (18.9%)
 ```
 
 ---
