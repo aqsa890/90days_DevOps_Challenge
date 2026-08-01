@@ -62,6 +62,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 15 | AWS EC2, Auto Scaling, Load Balancer & S3 Static Website Hosting | ✅ |
 | Day 16 | GitOps with Jira, AWS Auto Scaling & Amazon RDS | ✅ |
 | Day 17 | Docker Fundamentals & AWS NoSQL Database (DynamoDB) | ✅ |
+| Day 18 | SAST, SCA & SonarQube (Manual Code Analysis) | ✅ |
+| Day 19 | Advanced Docker: Multi-Stage Builds, Volumes & Networking | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -126,6 +128,8 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-15/
 ├── Day-16/
 ├── Day-17/
+├── Day-18/
+├── Day-19/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -174,7 +178,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-███████████████████░░░░░░░░░░░░░░░░░░░░░░ 17/90 Days Completed (18.9%)
+█████████████████████░░░░░░░░░░░░░░░░░░░░ 19/90 Days Completed (21.1%)
 ```
 
 ---
