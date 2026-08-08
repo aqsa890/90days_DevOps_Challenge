@@ -64,6 +64,13 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 17 | Docker Fundamentals & AWS NoSQL Database (DynamoDB) | ✅ |
 | Day 18 | SAST, SCA & SonarQube (Manual Code Analysis) | ✅ |
 | Day 19 | Advanced Docker: Multi-Stage Builds, Volumes & Networking | ✅ |
+| Day 20 | 3-Tier Microservices with Docker | ✅ |
+| Day 21 | Advanced Containerization: Multi-Stage Builds & Security | ✅ |
+| Day 22 | Docker Compose Orchestration | ✅ |
+| Day 23 | Containerizing Microservices & DevSecOps Best Practices | ✅ |
+| Day 24 | First Steps into CI/CD Automation with GitHub Actions | ✅ |
+| Day 25 | End-to-End Multi-Tier Deployment Pipeline | ✅ |
+| Day 26 | Weekly Revision: Containerization & CI/CD Pipelines | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -130,6 +137,13 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-17/
 ├── Day-18/
 ├── Day-19/
+├── Day-20/
+├── Day-21/
+├── Day-22/
+├── Day-23/
+├── Day-24/
+├── Day-25/
+├── Day-26/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -178,7 +192,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-█████████████████████░░░░░░░░░░░░░░░░░░░░ 19/90 Days Completed (21.1%)
+████████████████████████████░░░░░░░░░░░░░ 26/90 Days Completed (28.9%)
 ```
 
 ---
