@@ -71,6 +71,11 @@ The goal is not just to complete the challenge, but to build a strong foundation
 | Day 24 | First Steps into CI/CD Automation with GitHub Actions | ✅ |
 | Day 25 | End-to-End Multi-Tier Deployment Pipeline | ✅ |
 | Day 26 | Weekly Revision: Containerization & CI/CD Pipelines | ✅ |
+| Day 27 | Matrix Strategy in GitHub Actions and Cron Job Scheduling | ✅ |
+| Day 28 | DevSecOps and CI/CD Pipeline Integration | ✅ |
+| Day 29 | Production-Oriented CI/CD + DevSecOps Pipeline | ✅ |
+| Day 30 | 30 Days of Building, 30 Days of Learning | ✅ |
+| Day 31 | Automated Jenkins Pipeline & GitHub Integration | ✅ |
 | ... | ... | ... |
 | Day 90 | Final Project & Interview Preparation | 🎯 |
 
@@ -144,6 +149,11 @@ The goal is not just to complete the challenge, but to build a strong foundation
 ├── Day-24/
 ├── Day-25/
 ├── Day-26/
+├── Day-27/
+├── Day-28/
+├── Day-29/
+├── Day-30/
+├── Day-31/
 │
 ├── Projects/
 │   ├── Backup-Script/
@@ -192,7 +202,7 @@ If you're also learning DevOps, Cloud, or Linux, feel free to connect, share ide
 ## 📈 Challenge Progress
 
 ```text
-████████████████████████████░░░░░░░░░░░░░ 26/90 Days Completed (28.9%)
+█████████████████████████████████░░░░░░░░ 31/90 Days Completed (34.4%)
 ```
 
 ---
